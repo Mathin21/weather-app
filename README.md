@@ -27,11 +27,11 @@ To run this project locally, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE,md) file for more information.
 
 ### License Summary
 
 - **MIT License**: This allows you to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, with the following conditions:
   - The original copyright notice and this permission notice must be included in all copies or substantial portions of the software.
 
-For detailed license information, refer to the [LICENSE](LICENSE) file.
+For detailed license information, refer to the [LICENSE](LICENSE.md) file.
